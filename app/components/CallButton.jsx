@@ -18,7 +18,7 @@ const CallButton = () => {
 
   return (
     <a
-      href="tel:+919876543210"
+      href="tel:+918985873381"
       className="fixed bottom-6 right-6 flex items-center gap-2 bg-green-500 text-white px-4 py-3 rounded-full shadow-lg hover:bg-green-600 transition-all duration-300 group z-50"
     >
       <FaPhone className="text-xl" />

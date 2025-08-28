@@ -221,7 +221,7 @@ const Navbar = () => {
           <div className="flex items-center gap-3 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2 border border-white/20">
             <div className="w-3 h-3 rounded-full bg-green-400 animate-pulse"></div>
             <p className="font-medium text-gray-100">Sushma</p>
-            <p className="text-gray-300 font-medium">Sushma@gmail.com</p>
+            <p className="text-gray-300 font-medium">dsuvarchala12345@gmail.com</p>
           </div>
           <a
             href="#features"
@@ -239,7 +239,7 @@ const Navbar = () => {
           </button>
           {showContact && (
             <div className="animate-fadeIn bg-gradient-to-r from-purple-600 to-blue-600 text-white px-4 py-2 rounded-lg shadow-lg border border-purple-400/30">
-              <span className="font-medium">+91 98765 43210</span>
+              <span className="font-medium">+91 8985873381</span>
             </div>
           )}
         </div>

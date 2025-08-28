@@ -127,11 +127,11 @@ const Hero = () => {
           {/* Image container */}
           <div className="relative bg-gradient-to-br from-white to-gray-50 p-1.5 sm:p-2 rounded-2xl shadow-2xl border border-white/50 backdrop-blur-sm">
             <Image
-              src="/girlimg.jpg"
+              src="/img.jpg"
               alt="Bank Hero - Modern Banking Experience"
               width={800}
               height={500}
-              className="rounded-xl shadow-lg object-cover w-full h-[300px] sm:h-[400px] md:h-[450px] lg:h-[500px] xl:h-[600px] transition-transform duration-500 group-hover:scale-[1.02]"
+              className="rounded-xl shadow-lg object-cover w-full h-[330px] sm:h-[400px] md:h-[450px] lg:h-[500px] xl:h-[690px] transition-transform duration-500 group-hover:scale-[1.02]"
               priority
             />
             
